@@ -17,15 +17,16 @@ cd Desktop      #作用是将终端工作目录切换到桌面
 ```bash
 sh a.sh           
 ```
-如果文件
 
-
-
+### 结束
+<br>
+<br>
+<br>
 ## 关于文件del_cache.sh
-	del_cache.sh的作用是删除一个缓存文件，这个文件占用了存储空间中“**可清除**”的部分，删除的文件为：
+	del_cache.sh的作用是删除一个缓存文件，这个文件占用了存储空间中“可清除”的部分，删除的文件为：
 	/System/Library/Caches/com.apple.coresymbolicationd/data
 
-点击[下载del_cache.sh.zip]()
+点击下载[del_cache.sh.zip](https://github.com/zimingwz/macos_command/raw/master/02_how_to_run_shell/del_cache.sh.zip)
 
 >本脚本程序不一定适于所有“**可清除**”的情况。
 
