@@ -1,4 +1,4 @@
-# 02_怎样运行shell
+# 怎样运行shell
 
 >假设a.sh是一个shell文件，下面介绍如何在MacOS运行shell文件
 
@@ -17,11 +17,10 @@ cd Desktop      #作用是将终端工作目录切换到桌面
 ```bash
 sh a.sh           
 ```
-
 ### 结束
+
 <br>
-<br>
-<br>
+
 ## 关于文件del_cache.sh
 	del_cache.sh的作用是删除一个缓存文件，这个文件占用了存储空间中“可清除”的部分，删除的文件为：
 	/System/Library/Caches/com.apple.coresymbolicationd/data
