@@ -12,7 +12,7 @@ if [ -n "$size" ]
             then
                 if [ $(echo "$file" | wc -m) -eq 57 ]
                     then
-                        rm -f $file
+                        sudo rm -f $file
                         echo "删除成功"
                         exit 0
                     else
