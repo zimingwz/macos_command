@@ -1,5 +1,7 @@
 # 怎样运行shell
 
+视频介绍:[点我到优酷看视频](http://v.youku.com/v_show/id_XMjY1ODMwMjA0MA==.html)
+
 >假设a.sh是一个shell文件，下面介绍如何在MacOS运行shell文件
 
 ### 第一步 将`a.sh`文件放到你的Mac桌面
