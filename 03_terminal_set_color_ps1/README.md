@@ -23,6 +23,7 @@ PS1生成工具请访问:[zimingwz.github.io](https://zimingwz.github.io/)
 PS1是UNIX、MacOS、Linux的系统变量，用来定义终端窗口中命令输入提示符前的显示内容。<br>
 PS1变量可以通过命令 `echo $PS1` 来查看。
 
+### PS1内容
 MacOS默认的PS1变量为:
 
 	\h:\W \u\$
@@ -37,5 +38,21 @@ MacOS默认的PS1变量为:
 * `\v` ：bash版本
 * `\w` ：完整的工作路径
 * `\#` ：命令计数
+
+同时可以自定义文本、符号、表情等内容在PS1变量中。
+
+
+### PS1颜色
+通过在PS1中添加*ANSI*控制码可以改变命令提示信息文字和背景的颜色。
+
+| hah| nih|
+|-|-|
+|lala|lla|
+
+
+
+
+
+
 
 

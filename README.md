@@ -12,7 +12,7 @@ MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/m
 	* README.md `介绍如何运行一个shell文件，含优酷视频介绍链接`
 * [03 修改终端命令提示信息颜色](https://github.com/zimingwz/macos_command/tree/master/03_terminal_set_color_ps1)
 	* ps1.sh `用来在用户配置文件中添加自定义的PS1变量的shell脚本`
-	* README.me `终端颜色修改方法的视频链接、PS1变量的介绍`
+	* README.me `终端颜色修改方法的视频链接、PS1变量的介绍、PS1变量自动生成工具`
 * [03 用颜色区分不同文件类型（待完成.....）]()
 
 ## 联系
