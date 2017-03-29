@@ -1,6 +1,6 @@
 # 修改终端命令提示信息颜色
 
-视频介绍:<a href="http://www.youku.com" target='_blank'>点我到优酷看视频</a>
+视频介绍:<a href="http://www.youku.com" target="_blank">点我到优酷看视频</a>
 
 ## 下载文件ps1.sh
 	ps1.sh脚本的作用是将PS1变量信息写入用户配置文件，来改变终端命令提示信息的颜色。
