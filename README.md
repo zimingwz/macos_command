@@ -19,4 +19,4 @@ MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/m
 	* vi编辑器的基本使用，以及对用户配置文件~/.bash_profile的编辑
 
 ## 联系
-微博：**王若小智**
+![](https://github.com/zimingwz/web_demo/blob/master/99_static/pic/weibo.gif)
