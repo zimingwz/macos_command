@@ -3,17 +3,19 @@
 视频介绍:[点我到优酷看视频](http://www.youku.com)
 
 ## 下载文件ps1.sh
+点击下载:[ps1.sh.zip](https://github.com/zimingwz/macos_command/raw/master/03_terminal_set_color_ps1/ps1.sh.zip)
+
 	ps1.sh脚本的作用是将PS1变量信息写入用户配置文件，来改变终端命令提示信息的颜色。
 	可以配合PS1变量生成工具(后文介绍)来生成PS1变量。
 	如果你会使用vi编辑器，可不使用这个脚本，而直接修改 '~/.bash_profile' 配置文件(MacOS)即可。 
 
-点击下载:[ps1.sh.zip](https://github.com/zimingwz/macos_command/raw/master/03_terminal_set_color_ps1/ps1.sh.zip)
 
 ## PS1变量生成工具
+PS1生成工具请访问:[zimingwz.github.io](https://zimingwz.github.io/)
+
 	为了更方便的生成PS1变量，笔者制作了一个WEB应用，可以通过模拟界面事实预览效果，
 	添加删除显示内容、改变前景和背景颜色、拖拽排序，来自动生成需要的PS1变量。
 
-PS1生成工具请访问:[zimingwz.github.io](https://zimingwz.github.io/)
 <br>
 
 ## PS1变量介绍
