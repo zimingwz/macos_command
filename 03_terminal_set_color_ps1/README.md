@@ -13,8 +13,10 @@
 ## PS1变量生成工具
 PS1生成工具请访问:[zimingwz.github.io](https://zimingwz.github.io/)
 
-	为了更方便的生成PS1变量，笔者制作了一个WEB应用，可以通过模拟界面事实预览效果，
+	为了更方便的生成PS1变量，笔者制作了一个WEB应用，可以通过模拟界面实时预览效果，
 	添加删除显示内容、改变前景和背景颜色、拖拽排序，来自动生成需要的PS1变量。
+
+![](https://github.com/zimingwz/web_demo/blob/master/99_static/pic/ps1.jpg)
 
 <br>
 
