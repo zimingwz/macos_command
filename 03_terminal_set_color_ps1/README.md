@@ -1,6 +1,6 @@
 # 修改终端命令提示信息颜色
 
-视频介绍:[点我到优酷看视频](http://www.youku.com)
+视频介绍:[点我到优酷看视频](http://v.youku.com/v_show/id_XMjY3NzA0OTQ0MA==.html)
 
 ## 下载文件ps1.sh
 点击下载:[ps1.sh.zip](https://github.com/zimingwz/macos_command/raw/master/03_terminal_set_color_ps1/ps1.sh.zip)
