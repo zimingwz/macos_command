@@ -1,6 +1,6 @@
 # 颜色区分不同文件类型
 
-视频介绍:[点我到优酷看视频](http://www.youku.com)
+视频介绍:[点我到优酷看视频](http://v.youku.com/v_show/id_XMjY3NzMzNjk4OA==.html)
 
 ## alias别名设置
 `ls`命令的作用是显示当前目录下的文件，当我们给`ls`命令添加参数`-G`则代表列出的文件按照类型用不同颜色区分显示。
