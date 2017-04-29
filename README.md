@@ -17,6 +17,15 @@ MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/m
 * [04 用颜色区分不同文件类型(alias和vi的使用)](https://github.com/zimingwz/macos_command/tree/master/04_alias&vi)
 	* alias别名的使用，及alias和文件颜色的关系
 	* vi编辑器的基本使用，以及对用户配置文件~/.bash_profile的编辑
+* [05 新建文件夹和文件方法(mkdir和touch的使用)](https://github.com/zimingwz/macos_command/tree/master/05_mkdir&touch)
+	* mkdir命令新建文件夹
+	* touch命令新建文件
+* [06 隐藏文件的操作](https://github.com/zimingwz/macos_command/tree/master/06_hidden_file)
+	* 快捷键显示隐藏文件
+	* 利用mv命令改变文件的隐藏属性
+* [07 新建桌面快捷方式，及命令手册查询方法](https://github.com/zimingwz/macos_command/tree/master/07_ln&man)
+	* ln命令新建应用的桌面快捷方式
+	* man命令查询命令手册
 
 ## 联系
 ![](https://github.com/zimingwz/web_demo/blob/master/99_static/pic/weibo.gif)
