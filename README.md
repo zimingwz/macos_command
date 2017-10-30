@@ -27,5 +27,3 @@ MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/m
 	* ln命令新建应用的桌面快捷方式
 	* man命令查询命令手册
 
-## 联系
-![](https://github.com/zimingwz/web_demo/blob/master/99_static/pic/weibo.gif)
